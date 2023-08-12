@@ -13,7 +13,7 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.003em;
+    letter-spacing: 0.03em;
     color: #4d5ae5;
 }
 
@@ -32,18 +32,37 @@
     font-family: Roboto, sans-serif;
 }
 
-.menu-title-text:hover {
+.my-link {
+    color: #2e2f42;
+}
+.my-link:hover {
     color: #404bbf;
 }
 
-.menu-title-text:focus {
+.my-link:focus {
     color: #404bbf;
 }
 
+.my-link {
+    color: #2e2f42;
+}
 
 .link-contact {
     font-style: normal;
   }
+
+.link-contact-text {
+    color: #434455;
+}
+
+
+.link-contact-text:hover {
+     color: #404bbf;
+}
+.link-contact-text:focus {
+    color: #404bbf;
+}
+
 .contact-all {
     font-family: "Roboto"sans-serif;
     text-decoration: none;
@@ -55,13 +74,6 @@
     letter-spacing: 0.02em;
     
 }
-.contact-all:hover {
-     color: #404bbf;
-}
-.contact-all:focus {
-    color: #404bbf;
-}
-
 
 .contact-telefone {
     font-family: "Roboto"sans-serif;
@@ -86,14 +98,9 @@
 
 }
 
-
-.body {
-    background-color: #FFFFFF;
-}
-
 .post {
     background-color: #2E2F42;
-    top: 72px;
+   
 
 }
 

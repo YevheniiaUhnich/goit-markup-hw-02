@@ -19,8 +19,8 @@
 .logo-header-text {
     color: #2e2f42;
     letter-spacing: 0.03em;
+    text-decoration: none;
 }
-
 
 .menu-title-text {
     font-weight: 500;
@@ -29,10 +29,12 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-family: Roboto, sans-serif;
+    text-decoration: none;
 }
 
 .my-link {
     color: #2e2f42;
+    text-decoration: none;
 }
 .my-link:hover {
     color: #404bbf;
@@ -48,10 +50,12 @@
 
 .link-contact {
     font-style: normal;
+    text-decoration: none;
   }
 
 .link-contact-text {
     color: #434455;
+    text-decoration: none;
 }
 
 
@@ -71,6 +75,7 @@
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.02em;
+    
     
 }
 
@@ -227,6 +232,6 @@
     color: #f4f4fd;
 }
 
-ul, ol {
+.ul, .ol {
     list-style-type: none;
 }

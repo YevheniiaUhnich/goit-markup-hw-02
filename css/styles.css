@@ -29,12 +29,13 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-family: Roboto, sans-serif;
-    text-decoration: none;
+    font-style: normal;
 }
 
 .my-link {
     color: #2e2f42;
     text-decoration: none;
+    font-style: normal;
 }
 .my-link:hover {
     color: #404bbf;
@@ -42,10 +43,6 @@
 
 .my-link:focus {
     color: #404bbf;
-}
-
-.my-link {
-    color: #2e2f42;
 }
 
 .link-contact {
@@ -68,7 +65,6 @@
 
 .contact-all {
     font-family: "Roboto", sans-serif;
-    text-decoration: none;
     color: #434455;
     font-style: normal;
     font-weight: 400;
@@ -77,17 +73,6 @@
     letter-spacing: 0.02em;
     
     
-}
-
-.contact-telefone {
-    font-family: "Roboto", sans-serif;
-    text-decoration: none;
-    color: #434455;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-          
 }
 
 .post-title {
